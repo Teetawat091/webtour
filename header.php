@@ -5,9 +5,9 @@
     <!-- ################################################################################################ -->
     <div class="fl_left">
       <ul class="nospace">
-        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="index.php"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="full-width.php">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
         <li><a href="#">Login</a></li>
         <li><a href="#">Register</a></li>
       </ul>
@@ -38,8 +38,8 @@
         </li>
         <li><a  href="sidebar-left.php">Check payment</a></li>
         </li>
-        <li><a href="sidebar-left.php">Promotion</a></li>
-        <li><a href="#">Contact </a></li>
+        <li><a href="sidebar-left.php">Tour Program</a></li>
+        <li><a href="contact.php">Contact </a></li>
       </ul>
     </nav>
     <!-- ################################################################################################ -->

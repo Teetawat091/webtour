@@ -16,7 +16,7 @@
         marker.setMap(map);
       }
     </script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBHlC_bwi0D_b86YE0ZN1hnymItuDb_5N0&callback=myMap"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA0XL5SyoJxE0_jv1h-m-Se_owykLrmVT8&callback=myMap"></script>
     </div>
     <div class="one_third">
       <h6 class="title">Contact &nbsp; Us</h6>

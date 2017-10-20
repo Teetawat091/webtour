@@ -7,7 +7,6 @@
 <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
-
 <!-- Top Background Image Wrapper -->
 <div class="bgded overlay" style="background-image:url('images/demoheader.jpg');">
   <!-- ################################################################################################ -->
@@ -89,17 +88,15 @@
             </article>
           </li>
         </ul>
-
       <!-- ################################################################################################ -->
     </div>
-    <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
   </main>
 </div>
 
 <div class="wrapper row4 bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
-<?php include('footer.php'); ?>
+
 </div>
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear">

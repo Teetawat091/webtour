@@ -51,7 +51,7 @@
             <li class="one_quarter"><a href="#"><img src="images/demo/gallery/01.png" alt=""></a></li>
             <li class="one_quarter"><a href="#"><img src="images/demo/gallery/01.png" alt=""></a></li>
           </ul>
-          
+
         </figure>
       </div>
 
@@ -67,14 +67,13 @@
       </nav>
       <!-- ################################################################################################ -->
     </div>
-    <!-- ################################################################################################ -->
+    
     <!-- / main body -->
     <div class="clear"></div>
   </main>
 </div>
 
 <div class="wrapper row4 bgded overlay" style="background-image:url('../images/demo/backgrounds/02.png');">
-<?php include('footer.php'); ?>
 </div>
 
 <div class="wrapper row5">
